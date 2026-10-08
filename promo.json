@@ -1,0 +1,10 @@
+{
+  "show": true,
+  "cards": [
+    {
+      "url": "https://t.me/ShizaVladikaaa",
+      "title": { "ru": "Подпишись", "en": "Subscribe" },
+      "icon": "telegram"
+    }
+  ]
+}
