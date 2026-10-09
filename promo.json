@@ -12,6 +12,7 @@
       "title": { "ru": "Подпишись на чебурека", "en": "Subscribe to Cheburek" },
       "subtitle": { "ru": "Свежая шиза", "en": "daily madness" },
       "icon": "telegram",
+      "platforms": ["android", "windows"]
     }
   ]
 }
