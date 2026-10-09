@@ -6,6 +6,13 @@
       "title": { "ru": "LimCore в Telegram", "en": "LimCore on Telegram" },
       "subtitle": { "ru": "Новости и обновления", "en": "News and updates" },
       "icon": "icons/limcore.png"
+    },
+    {
+      "url": "https://t.me/ShizaVladikaaa",
+      "title": { "ru": "Подпишись на чебурека 🥟", "en": "Subscribe to Cheburek 🥟" },
+      "subtitle": { "ru": "Хрустящие мемы и свежая шиза", "en": "Crispy memes and daily madness" },
+      "icon": "telegram",
+      "color": ["#FF8008", "#FF416C"]
     }
   ]
 }
