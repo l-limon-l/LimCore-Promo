@@ -9,10 +9,9 @@
     },
     {
       "url": "https://t.me/ShizaVladikaaa",
-      "title": { "ru": "Подпишись на чебурека 🥟", "en": "Subscribe to Cheburek 🥟" },
-      "subtitle": { "ru": "Хрустящие мемы и свежая шиза", "en": "Crispy memes and daily madness" },
+      "title": { "ru": "Подпишись на чебурека", "en": "Subscribe to Cheburek" },
+      "subtitle": { "ru": "Свежая шиза", "en": "daily madness" },
       "icon": "telegram",
-      "color": ["#FF8008", "#FF416C"]
     }
   ]
 }
